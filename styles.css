@@ -1,0 +1,25 @@
+body {
+    color: mediumpurple;
+    background: lightpink;
+    margin: 15px;
+    font-family: "Sour Gummy", sans-serif;
+}
+
+header {
+    border-bottom: solid 2px rgb(169, 143, 223);
+    padding: 10px;
+    font-size: 26px;
+    color: rgb(169,143,223);
+}
+
+section {
+    background: rgb(247, 195, 220);
+    padding-bottom: 30px;
+    padding-top: 0px;
+    display:flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
